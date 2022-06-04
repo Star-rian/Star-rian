@@ -1,4 +1,4 @@
-#### 👋 Hi, I’m Sinen. I'm from China 🇨🇳.
+#### 👋 Hi, I’m CodeInfinity. I'm from China 🇨🇳.
 #### 🎥 I'm a uploader at Bilibili.
 #### 👀 I’m interested in drawing and coding.
 #### 🌱 I’m currently learning CPP.
